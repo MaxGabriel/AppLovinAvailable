@@ -8,6 +8,21 @@
 
 #import "AppDelegate.h"
 
+@import AVFoundation;
+@import AdSupport;
+@import CoreGraphics;
+@import CoreMedia;
+@import CoreTelephony;
+@import EventKit;
+@import EventKitUI;
+@import MediaPlayer;
+@import MobileCoreServices;
+@import QuartzCore;
+@import Security;
+@import StoreKit;
+@import SystemConfiguration;
+@import iAd;
+
 @interface AppDelegate ()
 
 @end
